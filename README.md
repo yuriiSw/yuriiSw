@@ -2,7 +2,7 @@
  <h4>
  
  -    🔭  Atualmente cursando Técnico em Informatica    
- -    📚  Estudando PHP e JS 
+ -    📚  Estudando PHP e JS e C/C++
  -    😄  Pronomes: ele/dele 
   </h4>
 <br>
