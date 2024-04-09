@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de Bacharelado em Sistemas de Informação    
+    Estudante de Bacharelado em Sistemas de Informação    
   </p>
   
   <p align="center">
