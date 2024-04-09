@@ -10,7 +10,7 @@
   </p>
   
   <p align="center">
-     Atualmente estou Estudando PHP , JS e C/C++ e Phyton
+   
   </p>
   
 </div>
