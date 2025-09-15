@@ -4,9 +4,6 @@
   <h3>Estudante de Sistemas de Informação & Desenvolvedor</h3>
 </div>
 
-<p align="center">
-  Olá! Sou um apaixonado por tecnologia e programação, com foco em <b>solucionar problemas</b> e construir projetos robustos. Minha jornada na área é guiada pela curiosidade e pelo desejo constante de aprender e inovar.
-</p>
 
 ---
 
@@ -42,9 +39,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/yuri-woycick-de-souza-856991210/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:seu-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
