@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9ID8B1h9g9Wl37r2x/giphy.gif" width="60" style="border-radius: 50%;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ3aTkwMDBxdWlzajRpaG5yN2U1c3I3Z3U0eTN6M2V4eWlzcm9xZSZlcD12MWlkPSZjdD1n/M9ID8B1h9g9Wl37r2x/giphy.gif" width="60" style="border-radius: 50%;">
   <h1>Yuri Woycick</h1>
   <h3>Estudante de Sistemas de Informação & Desenvolvedor</h3>
 </div>
@@ -34,13 +34,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriiSw&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
----
-
-## 🚀 Projetos em Destaque
-
-* <b>[Nome do Projeto 1]</b>: Uma breve descrição do projeto. O que ele faz, qual tecnologia usou, e qual problema ele resolve. [Link para o repositório](URL_DO_REPOSITORIO)
-* <b>[Nome do Projeto 2]</b>: Outra breve descrição. Mostre o que você aprendeu com ele e por que ele é importante para o seu portfólio. [Link para o repositório](URL_DO_REPOSITORIO)
 
 ---
 
