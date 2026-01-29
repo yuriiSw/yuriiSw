@@ -29,14 +29,16 @@ Atualmente, estou aprofundando meus conhecimentos em **SQL** e estudando para a 
 </div>
 
 ---
+
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuriiSw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriiSw&layout=compact&theme=dracula"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriiSw&theme=dracula" alt="streak graph" />
+  <a href="https://github.com/yuriiSw">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yuriiSw&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriiSw&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
+
 ---
 
 ## 📬 Fale Comigo
