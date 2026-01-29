@@ -32,13 +32,9 @@ Atualmente, estou aprofundando meus conhecimentos em **SQL** e estudando para a 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuriiSw&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=yuriiSw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriiSw&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuriiSw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriiSw&layout=compact&theme=dracula"/>
   <br/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriiSw&theme=dracula" alt="streak graph" />
 </div>
 ---
