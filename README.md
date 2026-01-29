@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ3aTkwMDBxdWlzajRpaG5yN2U1c3I3Z3U0eTN6M2V4eWlzcm9xZSZlcD12MWlkPSZjdD1n/M9ID8B1h9g9Wl37r2x/giphy.gif" width="60" style="border-radius: 50%;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" style="border-radius: 50%;">
   <h1>Yuri Woycick</h1>
   <h3>Analista de TI | Desenvolvedor Backend</h3>
 </div>
