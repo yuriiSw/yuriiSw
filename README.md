@@ -44,7 +44,7 @@ Atualmente, estou aprofundando meus conhecimentos em **SQL** e estudando para a 
 ## 📬 Fale Comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yuri-woycick-de-souza-856991210/" target="_blank">
+  <a href="https://www.linkedin.com/in/yuriwds/"_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
