@@ -1,9 +1,16 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ3aTkwMDBxdWlzajRpaG5yN2U1c3I3Z3U0eTN6M2V4eWlzcm9xZSZlcD12MWlkPSZjdD1n/M9ID8B1h9g9Wl37r2x/giphy.gif" width="60" style="border-radius: 50%;">
   <h1>Yuri Woycick</h1>
-  <h3>Estudante de Sistemas de Informação & Desenvolvedor</h3>
+  <h3>Analista de TI | Desenvolvedor Backend</h3>
 </div>
 
+---
+
+## 👨‍💻 Sobre Mim
+
+Sou Bacharel em Sistemas de Informação (formado em 2025) e atuo como Analista de TI e Desenvolvedor Backend. Tenho experiência prática adquirida durante meu estágio no **Procon-SP** e possuo forte interesse em gestão de bancos de dados e infraestrutura.
+
+Atualmente, estou aprofundando meus conhecimentos em **SQL** e estudando para a certificação **AWS Certified Cloud Practitioner**, buscando oportunidades para aplicar minhas habilidades em soluções robustas e escaláveis.
 
 ---
 
